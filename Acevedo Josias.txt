@@ -1,0 +1,8 @@
+T.P trabajo de informática aplica 
+Presentación personal
+25.08.23
+
+My name si Acevedo Josias tengo 19 años y tengo el objetivo de adquir conocimientos y métodos de 
+resolver problemas y crear soluciones tengo el anelo de poder terminar la carrera de desarrollo de software 
+.El CRUD para el CRUD es la capacidad de poder borrar , actualizar , leer, crear cosas mayormente se lo puede ver 
+en las bases de datos o sistemas de gestión de información 
